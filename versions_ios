@@ -1,6 +1,6 @@
 <versions>
 <glacier>3.4.3</glacier>
-<ios>15.4.1</ios>
+<ios>15.5</ios>
 <glacier_android>3.4.1</glacier_android>
 <android_os>12.0</android_os>
 <android_api>31</android_api>
