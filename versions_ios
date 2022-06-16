@@ -3,6 +3,6 @@
 <ios>15.5</ios>
 <glacier_android>3.4.1</glacier_android>
 <android_os>12.0</android_os>
-<alt_os>11</alt_os>
+<alt_os>RP1A.201105.002</alt_os>
 <android_api>31</android_api>
 </versions>
