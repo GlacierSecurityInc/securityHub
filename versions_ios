@@ -4,5 +4,5 @@
 <android_api>31</android_api>                 <!-- Target SDK number for Glacier Chat for Android -->
 <ios>16.5</ios>                               <!-- Latest version of iOS -->
 <android_os>13.0</android_os>                 <!-- Latest version of Android -->
-<alt_os>RP1A.201105.002</alt_os>              <!-- Latest version of altOS -->
+<alt_os>SQ3A.220705.004</alt_os>              <!-- Latest version of altOS -->
 </versions>
