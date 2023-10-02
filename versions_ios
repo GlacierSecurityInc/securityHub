@@ -1,8 +1,8 @@
 <versions>
 <glacier>4.0.5</glacier>                      <!-- Latest version of Glacier Chat for iOS --> 
-<glacier_android>4.2.3</glacier_android>      <!-- Latest version of Glacier Chat for Android -->
+<glacier_android>5.0.1</glacier_android>      <!-- Latest version of Glacier Chat for Android -->
 <android_api>31</android_api>                 <!-- Target SDK number for Glacier Chat for Android -->
-<ios>16.6.1</ios>                             <!-- Latest version of iOS -->
+<ios>17.0.2</ios>                             <!-- Latest version of iOS -->
 <android_os>13.0</android_os>                 <!-- Latest version of Android -->
 <alt_os>SQ3A.220705.004</alt_os>              <!-- Latest version of altOS -->
 </versions>
